@@ -60,7 +60,7 @@ git clone https://github.com/sruthika-19/library-management-system-python
 3. Open the project folder:
 
 ```bash
-cd library-management-system
+cd library-management-system-python
 ```
 
 4. Run the program:
